@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+  
+![Followers][social-followers]
+![Stars][social-stars]
+![Sponsors][social-sponsors]
+  
+# Hi There!👋 I'm Midas.
 
-<!--
-**MidasTouch-MT/MidasTouch-MT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  
+- 🔭 I’m currently working on website browsers, geolocation systems, and promoting online privacy.
+- 🌱 I’m currently learning C, C++, JavaScript, and Java.
+- 👯 I’m looking to collaborate on my new privacy-first projects, and documenting them.
+- 🤔 I’m looking for help with creating internet browsers.
+- 💬 Ask me about web tracking or how to prevent to it.
+- ⚡ Fun fact: Google and Facebook polarize your opinions and speech.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Markdown Links-->
+[social-followers]: https://img.shields.io/github/followers/midastouch-mt?style=for-the-badge
+[social-stars]: https://img.shields.io/github/stars/midastouch-mt?style=for-the-badge
+[social-sponsors]: https://img.shields.io/github/sponsors/midastouch-mt?style=for-the-badge
