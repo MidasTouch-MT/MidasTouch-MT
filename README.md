@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on my new privacy-first projects, and documenting them.
 - 🤔 I’m looking for help with creating internet browsers.
 - 💬 Ask me about web tracking or how to prevent to it.
-- ⚡ Fun fact: Google and Facebook polarize your opinions and speech.
+- ⚡ Fun fact: 59% of online users stated that they don’t believe in complete online anonymity.
 
 <!-- Markdown Links-->
 [social-followers]: https://img.shields.io/github/followers/midastouch-mt?style=for-the-badge
