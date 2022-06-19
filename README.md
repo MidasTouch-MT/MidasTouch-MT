@@ -11,7 +11,7 @@
 - 💬 Ask me about web tracking standards, and online privacy.
 - ⚡ Fun fact: 59% of online users stated that they don’t believe in complete online anonymity.
   
-<br/><br/>
+<br/>
 <div align="center">
   
 ![Midas Touch's GitHub Status](https://github-readme-stats.vercel.app/api?username=MidasTouch-MT&show_icons=true&theme=vision-friendly-dark)
