@@ -1,4 +1,5 @@
 <div align="center">
+  
 # Hi There!👋
 
 <div align="left">
@@ -10,4 +11,5 @@
 - ⚡ Fun fact: 59% of online users stated that they don’t believe in complete online anonymity.
 
 <div align="center">
+  
 ![Midas Touch's GitHub Status](https://github-readme-stats.vercel.app/api?username=MidasTouch-MT&show_icons=true&theme=vision-friendly-dark)
