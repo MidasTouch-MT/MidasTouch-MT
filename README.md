@@ -14,4 +14,4 @@
 <br/>
 <div align="center">
   
-![Midas Touch's GitHub Status](https://github-readme-stats.vercel.app/api?username=MidasTouch-MT&title_color=fdd700&border_color=fdd700&icon_color=fdd700&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=vision-friendly-dark)
+![Midas Touch's GitHub Status](https://github-readme-stats.vercel.app/api?username=MidasTouch-MT&title_color=ffe031&border_color=ffe031&icon_color=ffe031&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&hide_rank=true&theme=vision-friendly-dark)
