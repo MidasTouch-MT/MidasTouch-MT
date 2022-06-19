@@ -1,5 +1,7 @@
+<div align="center">
 # Hi There!👋
-  
+
+<div align="left">
 - 🔭 I’m currently working on web browsers, geolocation systems, and videogame engines.
 - 🌱 I’m currently learning C, C++, JavaScript, and Java.
 - 👯 I’m looking to collaborate on documentation and databases.
@@ -8,4 +10,4 @@
 - ⚡ Fun fact: 59% of online users stated that they don’t believe in complete online anonymity.
 
 <div align="center">
-[![Midas Touch's GitHub stats](https://github-readme-stats.vercel.app/api?username=MidasTouch-MT)](https://github.com/MidasTouch-MT)
+![Midas Touch's GitHub Status](https://github-readme-stats.vercel.app/api?username=MidasTouch-MT&show_icons=true&theme=vision-friendly-dark)
